@@ -9,7 +9,7 @@
 package elastic
 
 import (
-	amf "amf/amfcore"
+	amf "github.com/mft-labs/amfcore"
 	"bytes"
 	"encoding/json"
 	"errors"
